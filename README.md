@@ -3,6 +3,8 @@ Damn Vulnerable GraphQL Application is an intentionally vulnerable implementatio
 
 # For testing i am adding this.
 
+# Updating the new docs
+
 <p align="center">
   <img src="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application/blob/master/static/images/dvgql_logo.png?raw=true" width="300px" alt="DVGA"/>
 </p>
