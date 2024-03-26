@@ -3,7 +3,6 @@ name: Update work item state when PR is merged
 on:
    pull_request:
     branches: [master, main]
-    types: [closed]
 
 jobs:
   alert:
@@ -16,7 +15,6 @@ jobs:
         ado_token: '${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}'
         ado_organization: '${{ secrets.ADO_ORGANIZATION }}'
         ado_project: '${{ secrets.ADO_PROJECT }}'
-        closedstate: ''
         gh_repo_owner: 'Tejachittamuri'
         gh_repo: 'az-400-practice_repo'
         pull_number: '${{github.event.number}}' 
