@@ -3,6 +3,8 @@ Damn Vulnerable GraphQL Application is an intentionally vulnerable implementatio
 
 # For testing i am adding this.
 
+[![Board Status](https://dev.azure.com/tejachittamuri/10b14d6b-4035-4aa1-875e-31005b990412/116bec69-f5e2-495a-87dc-a26644f5edcb/_apis/work/boardbadge/6b91671e-ced3-495e-8e92-427364a4bf34)](https://dev.azure.com/tejachittamuri/10b14d6b-4035-4aa1-875e-31005b990412/_boards/board/t/116bec69-f5e2-495a-87dc-a26644f5edcb/Stories/)
+
 # Updating the new docs
 
 <p align="center">
